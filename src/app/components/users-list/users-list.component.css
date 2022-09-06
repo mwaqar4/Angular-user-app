@@ -1,0 +1,12 @@
+/*form styles*/
+#user-details {
+    justify-content: center;
+    align-items: center;
+}
+
+.list-group{
+    max-height: 500px;
+    margin-bottom: 10px;
+    overflow:scroll;
+    -webkit-overflow-scrolling: touch;
+}
